@@ -1,0 +1,1 @@
+{"name": "ayeyaeyey", "description": "Test This django application was built with Crowdbotics www.crowdbotics.com", "repository": "https://github.com/TylerCrowdboticsTest/testtestcom-test-20", "keywords": ["web", "django", "Test"], "env": {"DEBUG_COLLECTSTATIC": "1"}, "addons": ["heroku-postgresql:hobby-dev", "sendgrid:starter"], "scripts": {"postdeploy": "./postdeploy.sh"}}
